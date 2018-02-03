@@ -1,0 +1,119 @@
+[
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(51,1,'GFT051','7/8\" X 2 1/4\" Bamboo Mini Stapler','','GFT051','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(52,1,'GFT052','6\" Bamboo Ruler','','GFT052','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(53,1,'GFT131','13 1/2\" X 10 7/8\" Bamboo Hen Shaped Cutting Board','','GFT131','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(54,1,'GFT132','13 3/4\" X 8 3/4\" Bamboo Pig Shaped Cutting Board','','GFT132','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(55,1,'GFT133','14 3/4\" X 9 3/4\" Bamboo Cow Shaped Cutting Board','','GFT133','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(56,1,'GFT134','14\" X 8 1/2\" Bamboo Fish Shaped Cutting Board','','GFT134','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(57,1,'GFT169','12\" Bamboo Spatula','','GFT169','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(58,1,'GFT170','12\" Bamboo Salad Spoon','','GFT170','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(59,1,'GFT171','12\" Bamboo Salad Spork','','GFT171','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(60,1,'GFT172','13 1/2\" X 7\" Bamboo Paddle Shape Cutting Board','','GFT172','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(61,1,'GFT173','11 1/2\" X 8 3/4\" Bamboo Rectangle Cutting Board','','GFT173','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(62,1,'GFT174','13 3/4\" X 9 3/4\" Bamboo Rectangle Cutting Board','','GFT174','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(63,1,'GFT219','9\" X 6\" Bamboo Bar Cutting Board','','GFT219','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(64,1,'GFT220','13 1/2\" X 11 1/2\" Bamboo 2-tone Cutting Board','','GFT220','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(65,1,'GFT221','18\" X 12\" Bamboo 2-tone Cutting Board','','GFT221','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(66,1,'GFT222','23 1/2\" X 14 1/2\" Bamboo Pizza Board','','GFT222','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(67,1,'GFT223','12\" X 6\" Bamboo Rectangle Cutting Board With Metal Cheese Cutter','','GFT223','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(68,1,'GFT224','8\" X 8\" Bamboo Cheese Set With 4 Tools','','GFT224','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(69,1,'GFT225','7 1/4\" X 7 1/4\" Bamboo Trivet With Recessed Area For 4 1/4\" Tiles','','GFT225','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(70,1,'GFT226','9\" X 9\" Bamboo Trivet With Recessed Area For 6\" Tiles','','GFT226','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(71,1,'GFT455','16 1/2\" X 9 3/4\" Bamboo Serving Tray','','GFT455','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(72,1,'GFT457','12\" X 8 1/4\" Bamboo Cutting Board With Butcher Block Edge','','GFT457','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(73,1,'GFT458','15\" X 10 1/4\" Bamboo Cutting Board With Butcher Block Edge','','GFT458','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(74,1,'GFT459','18 1/4\" X 12\" Bamboo Cutting Board With Butcher Block Edge','','GFT459','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(75,1,'GFT460','13 1/2\" X 7\" Paddle Shaped Bamboo Cutting Board With Butcher Block Inlay','','GFT460','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(76,1,'GFT461BU','11 3/4\" Blue Silicone Baster Brush With Bamboo Handle','','GFT461BU','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(77,1,'GFT461GR','11 3/4\" Green Silicone Baster Brush With Bamboo Handle','','GFT461GR','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(78,1,'GFT461NG','11 3/4\" Orange Silicone Baster Brush With Bamboo Handle','','GFT461NG','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(79,1,'GFT461PR','11 3/4\" Purple Silicone Baster Brush With Bamboo Handle','','GFT461PR','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(80,1,'GFT461RD','11 3/4\" Red Silicone Baster Brush With Bamboo Handle','','GFT461RD','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(81,1,'GFT461YW','11 3/4\" Yellow Silicone Baster Brush With Bamboo Handle','','GFT461YW','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(82,1,'GFT462BU','11 3/4\" Blue Silicone Spatula With Bamboo Handle','','GFT462BU','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(83,1,'GFT462GR','11 3/4\" Green Silicone Spatula With Bamboo Handle','','GFT462GR','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(84,1,'GFT462NG','11 3/4\" Orange Silicone Spatula With Bamboo Handle','','GFT462NG','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(85,1,'GFT462PR','11 3/4\" Purple Silicone Spatula With Bamboo Handle','','GFT462PR','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(86,1,'GFT462RD','11 3/4\" Red Silicone Spatula With Bamboo Handle','','GFT462RD','','');"
+    }
+]    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(87,1,'GFT462YW','11 3/4\" Yellow Silicone Spatula With Bamboo Handle','','GFT462YW','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(88,1,'PDL101','4\" X 22\" Bamboo Paddle','','PDL101','','');"
+    },
+    {
+        "sql": "INSERT INTO `opencart`.`oc_product_description`(`product_id`,`language_id`,`name`,`description`,`tag`,`meta_title`,`meta_description`,`meta_keyword`)VALUES(89,1,'WTL07','6 1/4\" Round Bamboo 4-piece Wine Tool Set','','WTL07','','');"
+    }
+]
